@@ -68,14 +68,14 @@ Ensure you have Python installed on your system.
 ### **Installation**
 Clone the repository:
 ```bash
-$ git clone https://github.com/yourusername/regex-data-extraction.git
-$ cd regex-data-extraction
+$ git clone https://github.com/AMugisha-1/alu_regex-data-extraction-AMugisha-1
+$ cd regex-data-extraction-AMugisha-1
 ```
 
 ### **Usage**
 Run the script:
 ```bash
-$ python regex_extractor.py
+$ python Regex-GAMA.py
 ```
 
 ---
