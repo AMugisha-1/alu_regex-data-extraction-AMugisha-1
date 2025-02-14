@@ -1,4 +1,3 @@
-# alu_regex-data-extraction-AMugisha-1
 # **Regex-Based Data Extraction System**
 
 ## **Overview**
@@ -181,6 +180,6 @@ for category, pattern in patterns.items():
 - Implement real-time validation.
 - Optimize regex patterns for more complex edge cases.
 
-íº€ **GAMA wishes you well!** íº€
+ï¿½ï¿½ï¿½ **GAMA wishes you well!** ï¿½ï¿½ï¿½
 
 
